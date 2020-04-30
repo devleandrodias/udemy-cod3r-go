@@ -26,3 +26,5 @@ Inspirado no smalltalk
 OO em Go: Métodos e Interfaces (únicas adições)
 
 Concorrência (NewSqueak - Rob Pike)
+
+Unário, Ternário, Binário
