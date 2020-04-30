@@ -1,6 +1,6 @@
 # História do Go Lang
 
-Novembri de 2009
+Novembro de 2009
 Criadores RobertGriesemer, Rob Pike E Ken Thompson
 G0 1.0 Março 2012
 Livre e código aberto
