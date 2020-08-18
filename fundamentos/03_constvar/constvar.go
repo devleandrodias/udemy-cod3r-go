@@ -2,21 +2,21 @@ package main
 
 import (
 	"fmt"
-	m "math"
+	ma "math"
 )
 
 // Em go você não precisa passar tipo da váriavel, ele infere os tipos
 
 func main() {
-	const PI float64 = 3.14
+	const PI float64 = 3.14 // constante
 	var raio = 3.2
 
-	// Forma reduzida de criar uma váriavel
-	area := PI * m.Pow(raio, 2)
+	// Forma reduzida de criar uma váriavel!
+	area := PI * ma.Pow(raio, 2)
 
 	// Em go se você define uma váriavel e não utilize ele gera um erro de compilação
 
-	fmt.Println("A área da cincurferência é ", area)
+	fmt.Println("A área da cincurferência é:", area)
 
 	const (
 		a = 1
